@@ -1,0 +1,17 @@
+{
+    "blogs": [
+        {
+        "title": "My First Blog",
+        "body": "The quick brown fox jumps over the lazy dog",
+        "autho": "shittu",
+        "id": 1
+        },
+        {
+        "title": "My Second Blog",
+        "body": "The quick brown fox jumps over the lazy dog",
+        "autho": "saheed",
+        "id": 2
+        }
+
+    ]
+}
