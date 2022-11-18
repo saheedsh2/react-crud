@@ -3,13 +3,13 @@
         {
         "title": "My First Blog",
         "body": "The quick brown fox jumps over the lazy dog",
-        "autho": "shittu",
+        "author": "shittu",
         "id": 1
         },
         {
         "title": "My Second Blog",
         "body": "The quick brown fox jumps over the lazy dog",
-        "autho": "saheed",
+        "author": "saheed",
         "id": 2
         }
 
